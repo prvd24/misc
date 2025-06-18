@@ -1,0 +1,16 @@
+*.dns.nextdns.io
+*.dns.adguard-dns.com
+*.msftncsi.com
+*.msftconnecttest.com
+*.ipv6.msftconnecttest.com
+*.www.msftconnecttest.com
+*.data.microsoft.com
+*.aria.microsoft.com
+*.cloudflareclient.com
+*.sparrow.cloudflare.com
+*.wireguard.com
+*.nslookup.io
+*.samsung.com
+*.samsungdm.com
+*.tinypass.com
+*.piano.io
