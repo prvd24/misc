@@ -1,13 +1,4 @@
-www.msftncsi.com
-*.msftncsi.com
-www.msftconnecttest.com
-*.msftconnecttest.com
 *.data.microsoft.com
 *.aria.microsoft.com
-# ~ ~ ~ ~ 
 *.cloudflareclient.com
 *.sparrow.cloudflare.com
-*.wireguard.com
-*.nslookup.io
-# ~ ~ ~ ~
-*.samsungdm.com
