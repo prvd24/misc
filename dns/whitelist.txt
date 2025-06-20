@@ -2,3 +2,4 @@
 *.aria.microsoft.com
 *.cloudflareclient.com
 *.sparrow.cloudflare.com
+*.datadog.pool.ntp.org
