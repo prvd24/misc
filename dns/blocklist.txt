@@ -7,7 +7,10 @@ thinkpad.lan
 eth0.me
 *.lan
 
-*.avcdn.net
-
 *.ingest.sentry.io
 *.samsungmilkradio.com
+
+*.avcdn.net
+*.avira.com
+*.avast.com
+*.ccleaner.com
