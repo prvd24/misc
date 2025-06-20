@@ -3,7 +3,9 @@ wpad
 local
 thinkpad
 wpad.lan
+thinkpad.lan
 eth0.me
+*.lan
 
 *.avcdn.net
 
