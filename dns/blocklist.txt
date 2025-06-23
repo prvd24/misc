@@ -1,11 +1,8 @@
 lan
-wpad
 local
-thinkpad
 wpad.lan
 thinkpad.lan
 eth0.me
-*.lan
 
 *.ingest.sentry.io
 *.samsungmilkradio.com
