@@ -4,3 +4,6 @@
 *.sparrow.cloudflare.com
 *.datadog.pool.ntp.org
 ogads-pa.clients6.google.com
+*.samsungdm.com
+id.tinypass.com
+*.piano.io
