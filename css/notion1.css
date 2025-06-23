@@ -1,0 +1,51 @@
+{
+font-family: Lato;
+}
+
+div.notion-page-content {
+font-size: 1.1rem;
+}
+
+[contenteditable]:empty::after {
+content: ' ';
+}
+
+div.notion-selectable.notion-bulleted_list-block
+
+div > div > div.notion-selectable.notion-bulleted_list-block {
+border-left: 1px dashed #484848;
+margin-left: -15px;
+padding-left: 10px;
+}
+
+div.notion-selectable.notion-bulleted_list-block
+
+div > div > div.notion-selectable.notion-numbered_list-block {
+border-left: 1px dashed #484848;
+margin-left: -15px;
+padding-left: 10px;
+}
+
+div.notion-selectable.notion-numbered_list-block
+
+div > div > div.notion-selectable.notion-numbered_list-block {
+border-left: 1px dashed #484848;
+margin-left: -15px;
+padding-left: 10px;
+}
+
+div.notion-selectable.notion-numbered_list-block
+
+div > div > div.notion-selectable.notion-bulleted_list-block {
+border-left: 1px dashed #484848;
+margin-left: -15px;
+padding-left: 10px;
+}
+
+div.notion-selectable.notion-to_do-block
+
+div > div > div.notion-selectable.notion-bulleted_list-block {
+border-left: 1px dashed #484848;
+margin-left: -15px;
+padding-left: 10px;
+}
