@@ -1,0 +1,14 @@
+* {
+	user-select: text !important;
+}
+
+div.hidden {
+	display:block !important; 
+	visibility: visible !important;
+}
+
+.transcript .faded-content:after {
+	content: '';
+	background: none !important;
+	display: none !important;
+}
