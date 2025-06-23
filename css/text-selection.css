@@ -1,12 +1,11 @@
 * {
-	user-select: text !important;
+  user-select: text !important;
 }
 
-*
-{
- -moz-user-select: text;
- -khtml-user-select: text;
- -webkit-user-select: text;
- -ms-user-select: text;
- user-select: text;
+* {
+  -moz-user-select: text;
+  -khtml-user-select: text;
+  -webkit-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
 }
