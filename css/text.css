@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'name';
+  src: url('');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'name';
+  font-weight: normal;
+  src: url('');
+  font-style: italic;
+  font-display: swap;
+}
+
+p {
+  font-family: name;
+  font-size: 120%;
+}
