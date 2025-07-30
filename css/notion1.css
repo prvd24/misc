@@ -1,3 +1,23 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('https://raw.githubusercontent.com/prvd24/misc/refs/heads/main/css/assets/Inter.woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter';
+  font-weight: normal;
+  src: url('https://raw.githubusercontent.com/prvd24/misc/refs/heads/main/css/assets/Inter-Italic.woff');
+  font-style: italic;
+  font-display: swap;
+}
+
+p {
+  font-family: Inter;
+  font-size: 120%;
+}
+
 div.notion-page-content {
   font-family: "Inter" !important;
   font-size: 1.1rem !important;
