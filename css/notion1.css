@@ -1,0 +1,19 @@
+div.notion-page-content {
+  font-family: "Inter" !important;
+  font-size: 1.1rem !important;
+}
+
+.notion-page-controls {
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+  padding-left: 1px !important;
+  padding-right: 1px !important;
+}
+
+h1.notranslate {
+  font-size: 80% !important;
+}
+
+[contenteditable]:empty::after {
+  content: " ";
+}
